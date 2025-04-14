@@ -1,3 +1,3 @@
-MERN Project
-Group: 57
+MERN Project <br>
+Group: 57 <br>
 Project: Personal Finance Tracker
